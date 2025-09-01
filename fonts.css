@@ -1,0 +1,25 @@
+
+@font-face {
+  font-display: swap; 
+  font-family: 'Fredoka';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/fredoka-v16-latin-regular.woff2') format('woff2');
+}
+
+
+@font-face {
+  font-display: swap; 
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/hind-madurai-v12-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lato-v24-latin-regular.woff2') format('woff2');
+}

@@ -1,0 +1,43 @@
+body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.big-left {
+  width: 800px;
+  height: 700px;
+  background-color: black;
+}
+
+.big-right {
+  width: 800px;
+  height: 697px;
+  border: 2px black solid;
+}
+
+.left-title {
+  color: #fff;
+  margin-left: 635px;
+  margin-top: 200px;
+  font-family: "Fredoka";
+  font-size: xx-large;
+  font-weight: 900;
+}
+
+.right-title {
+  margin-left: 5px;
+  margin-top: 200px;
+  font-family: "Fredoka";
+  font-size: xx-large;
+  font-weight: 900;
+}
+
+.left-img {
+  width: 200px;
+  margin-left: 550px;
+}
+
+.right-img {
+  width: 200px;
+  margin-top: 20px;
+}
